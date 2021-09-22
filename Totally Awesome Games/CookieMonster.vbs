@@ -1,0 +1,1 @@
+x=MsgBox("Your Computer has been Infected By Kedar!!! Kedar Will Eat Your System!!! System.IO12334522 - OH NO",0+16, "WINDOWS UNFORESEEN ERROR")
